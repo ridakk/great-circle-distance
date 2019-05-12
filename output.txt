@@ -1,0 +1,112 @@
+[ User {
+    userId: 4,
+    name: 'Ian Kehoe',
+    city: 
+     City {
+       longitude: -0.10887948559240045,
+       latitude: 0.9293023439508763 } },
+  User {
+    userId: 5,
+    name: 'Nora Dempsey',
+    city: 
+     City {
+       longitude: -0.10890369679978412,
+       latitude: 0.9272982417120057 } },
+  User {
+    userId: 6,
+    name: 'Theresa Enright',
+    city: 
+     City {
+       longitude: -0.10944122330281332,
+       latitude: 0.9271705586599176 } },
+  User {
+    userId: 8,
+    name: 'Eoin Ahearn',
+    city: 
+     City {
+       longitude: -0.10797845936605836,
+       latitude: 0.9440395114556346 } },
+  User {
+    userId: 11,
+    name: 'Richard Finnegan',
+    city: 
+     City {
+       longitude: -0.10656406373886396,
+       latitude: 0.9251775514791021 } },
+  User {
+    userId: 12,
+    name: 'Christina McArdle',
+    city: 
+     City {
+       longitude: -0.10548248145607382,
+       latitude: 0.9247867024464104 } },
+  User {
+    userId: 13,
+    name: 'Olive Ahearn',
+    city: 
+     City {
+       longitude: -0.12217304763960307,
+       latitude: 0.9250245035569946 } },
+  User {
+    userId: 15,
+    name: 'Michael Ahearn',
+    city: 
+     City {
+       longitude: -0.11280062955639351,
+       latitude: 0.9244310916113166 } },
+  User {
+    userId: 17,
+    name: 'Patricia Cahill',
+    city: 
+     City {
+       longitude: -0.10333916477474722,
+       latitude: 0.9456235426141475 } },
+  User {
+    userId: 23,
+    name: 'Eoin Gallagher',
+    city: 
+     City {
+       longitude: -0.11103686962749813,
+       latitude: 0.9438837635091746 } },
+  User {
+    userId: 24,
+    name: 'Rose Enright',
+    city: 
+     City {
+       longitude: -0.11228284272720437,
+       latitude: 0.9448048959284996 } },
+  User {
+    userId: 26,
+    name: 'Stephen McArdle',
+    city: 
+     City {
+       longitude: -0.13358556363217627,
+       latitude: 0.9256887060571336 } },
+  User {
+    userId: 29,
+    name: 'Oliver Ahearn',
+    city: 
+     City {
+       longitude: -0.12412205681530514,
+       latitude: 0.9380188289039428 } },
+  User {
+    userId: 30,
+    name: 'Nick Enright',
+    city: 
+     City {
+       longitude: -0.12719086923908676,
+       latitude: 0.9383132484954618 } },
+  User {
+    userId: 31,
+    name: 'Alan Behan',
+    city: 
+     City {
+       longitude: -0.11941963017429082,
+       latitude: 0.9276239009518061 } },
+  User {
+    userId: 39,
+    name: 'Lisa Ahearn',
+    city: 
+     City {
+       longitude: -0.11148727802091404,
+       latitude: 0.9250837505037828 } } ]
